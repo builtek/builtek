@@ -8,4 +8,4 @@ Builtek is an integrated platform specifically designed for the construction ind
 - 😄 Pronouns: We/Us (as a team)
   
 Builtek Public Repository Disclosure
-All content in these repositories including code has been provided by Builtek under the associated open source software license and Builtek is under no obligation to provide enhancements, updates, or support. 
+All public content in these repositories including code has been provided by Builtek under the associated open source software license and Builtek is under no obligation to provide enhancements, updates, or support. 
